@@ -57,6 +57,20 @@ footer {
     float:left
 }
 
+#tdcolourlabel{
+    width: 80%;
+}
+
+#tdcommentbuttons{
+    width: 20%;
+    text-align: left
+}
+
+#Comments{
+    width:622px;
+    text-align: center
+}
+
 #dvColoursample{
     width:622px;
 	height:302px;
